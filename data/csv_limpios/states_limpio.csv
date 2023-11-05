@@ -1,51 +1,51 @@
 ,state,abbreviation,capital_city,square_km
-0,Alabama,AL,Montgomery,135 756
-1,Alaska,AK,Juneau,1 717 854
-2,Arizona,AZ,Phoenix,295 254
-3,Arkansas,AR,Little Rock,137 732
-4,California,CA,Sacramento,423 970
-5,Carolina,NC,Raleigh,139 389
-6,Carolina,SC,Columbia,82 932
-7,Colorado,CO,Denver,269 601
-8,Connecticut,CT,Hartford,14 357
-9,Dakota,ND,Bismarck,183 112
-10,Dakota,SD,Pierre,199 731
-11,Delaware,DE,Dover,6 447
-12,Florida,FL,Tallahassee,170 304
-13,Georgia,GA,Atlanta,153 909
-14,Hawái,HI,Honolulu,28 311
-15,Idaho,ID,Boise,216 446
-16,Illinois,IL,Springfield,149 998
-17,Indiana,IN,Indianápolis,94 321
-18,Iowa,IA,Des Moines,145 743
-19,Kansas,KS,Topeka,213 096
-20,Kentucky,KY,Frankfort,104 659
-21,Luisiana,LA,Baton Rouge,134 264
-22,Maine,ME,Augusta,91 646
-23,Maryland,MD,Annapolis,32 133
-24,Massachusetts,MA,Boston,27 336
-25,Míchigan,MI,Lansing,250 494
-26,Minnesota,MN,Saint Paul,225 171
-27,Misisipi,MS,Jackson,125 434
-28,Misuri,MO,Jefferson City,180 533
-29,Montana,MT,Helena,380 838
-30,Nebraska,NE,Lincoln,200 345
-31,Nevada,NV,Carson City,286 351
-32,Nueva,NJ,Trenton,22 588
-33,Nueva,NY,Albany,141 299
-34,Nuevo,NH,Concord,24 216
-35,Nuevo,NM,Santa Fe,314 915
-36,Ohio,OH,Columbus,116 096
-37,Oklahoma,OK,Oklahoma City,181 035
-38,Oregón,OR,Salem,254 805
-39,Pensilvania,PA,Harrisburg,119 283
-40,Rhode,RI,Providence,4 002
-41,Tennessee,TN,Nashville,109 151
-42,Texas,TX,Austin,695 621
-43,Utah,UT,Salt Lake City,219 887
-44,Vermont,VT,Montpelier,24 901
-45,Virginia,VA,Richmond,110 785
-46,Virginia,WV,Charleston,62 755
-47,Washington,WA,Olympia,184 665
-48,Wisconsin,WI,Madison,169 639
-49,Wyoming,WY,Cheyenne,253 336
+0,Alabama,AL,Montgomery,135756
+1,Alaska,AK,Juneau,1717854
+2,Arizona,AZ,Phoenix,295254
+3,Arkansas,AR,Little Rock,137732
+4,California,CA,Sacramento,423970
+5,Carolina,NC,Raleigh,139389
+6,Carolina,SC,Columbia,82932
+7,Colorado,CO,Denver,269601
+8,Connecticut,CT,Hartford,14357
+9,Dakota,ND,Bismarck,183112
+10,Dakota,SD,Pierre,199731
+11,Delaware,DE,Dover,6447
+12,Florida,FL,Tallahassee,170304
+13,Georgia,GA,Atlanta,153909
+14,Hawái,HI,Honolulu,28311
+15,Idaho,ID,Boise,216446
+16,Illinois,IL,Springfield,149998
+17,Indiana,IN,Indianápolis,94321
+18,Iowa,IA,Des Moines,145743
+19,Kansas,KS,Topeka,213096
+20,Kentucky,KY,Frankfort,104659
+21,Luisiana,LA,Baton Rouge,134264
+22,Maine,ME,Augusta,91646
+23,Maryland,MD,Annapolis,32133
+24,Massachusetts,MA,Boston,27336
+25,Míchigan,MI,Lansing,250494
+26,Minnesota,MN,Saint Paul,225171
+27,Misisipi,MS,Jackson,125434
+28,Misuri,MO,Jefferson City,180533
+29,Montana,MT,Helena,380838
+30,Nebraska,NE,Lincoln,200345
+31,Nevada,NV,Carson City,286351
+32,Nueva,NJ,Trenton,22588
+33,Nueva,NY,Albany,141299
+34,Nuevo,NH,Concord,24216
+35,Nuevo,NM,Santa Fe,314915
+36,Ohio,OH,Columbus,116096
+37,Oklahoma,OK,Oklahoma City,181035
+38,Oregón,OR,Salem,254805
+39,Pensilvania,PA,Harrisburg,119283
+40,Rhode,RI,Providence,4002
+41,Tennessee,TN,Nashville,109151
+42,Texas,TX,Austin,695621
+43,Utah,UT,Salt Lake City,219887
+44,Vermont,VT,Montpelier,24901
+45,Virginia,VA,Richmond,110785
+46,Virginia,WV,Charleston,62755
+47,Washington,WA,Olympia,184665
+48,Wisconsin,WI,Madison,169639
+49,Wyoming,WY,Cheyenne,253336
