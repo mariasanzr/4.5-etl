@@ -49,3 +49,4 @@ id,state,abbreviation,capital_city,square_km
 47,Washington (WA),WA,Olympia,184665
 48,Wisconsin (WI),WI,Madison,169639
 49,Wyoming (WY),WY,Cheyenne,253336
+50,unknown,unknown,unknown,0
