@@ -1,51 +1,51 @@
 id,state,abbreviation,capital_city,square_km
-0,Alabama,AL,Montgomery,135756
-1,Alaska,AK,Juneau,1717854
-2,Arizona,AZ,Phoenix,295254
-3,Arkansas,AR,Little Rock,137732
-4,California,CA,Sacramento,423970
-5,Carolina,NC,Raleigh,139389
-6,Carolina,SC,Columbia,82932
-7,Colorado,CO,Denver,269601
-8,Connecticut,CT,Hartford,14357
-9,Dakota,ND,Bismarck,183112
-10,Dakota,SD,Pierre,199731
-11,Delaware,DE,Dover,6447
-12,Florida,FL,Tallahassee,170304
-13,Georgia,GA,Atlanta,153909
-14,Hawái,HI,Honolulu,28311
-15,Idaho,ID,Boise,216446
-16,Illinois,IL,Springfield,149998
-17,Indiana,IN,Indianápolis,94321
-18,Iowa,IA,Des Moines,145743
-19,Kansas,KS,Topeka,213096
-20,Kentucky,KY,Frankfort,104659
-21,Luisiana,LA,Baton Rouge,134264
-22,Maine,ME,Augusta,91646
-23,Maryland,MD,Annapolis,32133
-24,Massachusetts,MA,Boston,27336
-25,Míchigan,MI,Lansing,250494
-26,Minnesota,MN,Saint Paul,225171
-27,Misisipi,MS,Jackson,125434
-28,Misuri,MO,Jefferson City,180533
-29,Montana,MT,Helena,380838
-30,Nebraska,NE,Lincoln,200345
-31,Nevada,NV,Carson City,286351
-32,Nueva,NJ,Trenton,22588
-33,Nueva,NY,Albany,141299
-34,Nuevo,NH,Concord,24216
-35,Nuevo,NM,Santa Fe,314915
-36,Ohio,OH,Columbus,116096
-37,Oklahoma,OK,Oklahoma City,181035
-38,Oregón,OR,Salem,254805
-39,Pensilvania,PA,Harrisburg,119283
-40,Rhode,RI,Providence,4002
-41,Tennessee,TN,Nashville,109151
-42,Texas,TX,Austin,695621
-43,Utah,UT,Salt Lake City,219887
-44,Vermont,VT,Montpelier,24901
-45,Virginia,VA,Richmond,110785
-46,Virginia,WV,Charleston,62755
-47,Washington,WA,Olympia,184665
-48,Wisconsin,WI,Madison,169639
-49,Wyoming,WY,Cheyenne,253336
+0,Alabama (AL),AL,Montgomery,135756
+1,Alaska (AK),AK,Juneau,1717854
+2,Arizona (AZ),AZ,Phoenix,295254
+3,Arkansas (AR),AR,Little Rock,137732
+4,California (CA),CA,Sacramento,423970
+5,Carolina del Norte (NC),NC,Raleigh,139389
+6,Carolina del Sur (SC),SC,Columbia,82932
+7,Colorado (CO),CO,Denver,269601
+8,Connecticut (CT),CT,Hartford,14357
+9,Dakota del Norte (ND),ND,Bismarck,183112
+10,Dakota del Sur (SD),SD,Pierre,199731
+11,Delaware (DE),DE,Dover,6447
+12,Florida (FL),FL,Tallahassee,170304
+13,Georgia (GA),GA,Atlanta,153909
+14,Hawái (HI),HI,Honolulu,28311
+15,Idaho (ID),ID,Boise,216446
+16,Illinois (IL),IL,Springfield,149998
+17,Indiana (IN),IN,Indianápolis,94321
+18,Iowa (IA),IA,Des Moines,145743
+19,Kansas (KS),KS,Topeka,213096
+20,Kentucky (KY),KY,Frankfort,104659
+21,Luisiana (LA),LA,Baton Rouge,134264
+22,Maine (ME),ME,Augusta,91646
+23,Maryland (MD),MD,Annapolis,32133
+24,Massachusetts (MA),MA,Boston,27336
+25,Míchigan (MI),MI,Lansing,250494
+26,Minnesota (MN),MN,Saint Paul,225171
+27,Misisipi (MS),MS,Jackson,125434
+28,Misuri (MO),MO,Jefferson City,180533
+29,Montana (MT),MT,Helena,380838
+30,Nebraska (NE),NE,Lincoln,200345
+31,Nevada (NV),NV,Carson City,286351
+32,Nueva Jersey (NJ),NJ,Trenton,22588
+33,Nueva York (NY),NY,Albany,141299
+34,Nuevo Hampshire (NH),NH,Concord,24216
+35,Nuevo México (NM),NM,Santa Fe,314915
+36,Ohio (OH),OH,Columbus,116096
+37,Oklahoma (OK),OK,Oklahoma City,181035
+38,Oregón (OR),OR,Salem,254805
+39,Pensilvania (PA),PA,Harrisburg,119283
+40,Rhode Island (RI),RI,Providence,4002
+41,Tennessee (TN),TN,Nashville,109151
+42,Texas (TX),TX,Austin,695621
+43,Utah (UT),UT,Salt Lake City,219887
+44,Vermont (VT),VT,Montpelier,24901
+45,Virginia (VA),VA,Richmond,110785
+46,Virginia Occidental (WV),WV,Charleston,62755
+47,Washington (WA),WA,Olympia,184665
+48,Wisconsin (WI),WI,Madison,169639
+49,Wyoming (WY),WY,Cheyenne,253336
