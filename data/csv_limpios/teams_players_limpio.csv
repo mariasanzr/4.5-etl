@@ -570,7 +570,7 @@ id,player_name,position,height,weight,age,experience,college,team
 568,Clayton Fejedelem,S,6-0,205.0,25.0,3,other,Cincinnati Bengals
 569,Jake Fisher,OT,06-06,305.0,25.0,4,other,Cincinnati Bengals
 570,Austin Fleer,OT,06-07,306.0,23.0,R,other,Cincinnati Bengals
-571,Quinton Flowers,HB,,,,R,other,Cincinnati Bengals
+571,Quinton Flowers,HB,0,0.0,0.0,R,other,Cincinnati Bengals
 572,Jordan Franks,TE,06-04,232.0,22.0,R,other,Cincinnati Bengals
 573,Ryan Glasgow,DT,06-03,302.0,24.0,2,other,Cincinnati Bengals
 574,Cordy Glenn,OT,06-06,345.0,28.0,7,other,Cincinnati Bengals
@@ -1307,7 +1307,7 @@ id,player_name,position,height,weight,age,experience,college,team
 1305,Tanner Lee,QB,06-04,220.0,23.0,R,other,Jacksonville Jaguars
 1306,Kapron Lewis-Moore,DE,06-04,315.0,28.0,4,other,Jacksonville Jaguars
 1307,Brandon Linder,C,06-06,315.0,26.0,5,other,Jacksonville Jaguars
-1308,Lerentee McCray,LB,06-03,249.0,,R,other,Jacksonville Jaguars
+1308,Lerentee McCray,LB,06-03,249.0,0.0,R,other,Jacksonville Jaguars
 1309,KC McDermott,OL,06-05,311.0,22.0,R,other,Jacksonville Jaguars
 1310,Dexter McDougle,CB,05-10,195.0,27.0,5,other,Jacksonville Jaguars
 1311,Quenton Meeks,CB,06-01,209.0,21.0,R,other,Jacksonville Jaguars
@@ -1318,7 +1318,7 @@ id,player_name,position,height,weight,age,experience,college,team
 1316,Andrew Motuapuaka,LB,05-11,235.0,23.0,R,other,Jacksonville Jaguars
 1317,Jalen Myrick,CB,05-10,200.0,23.0,2,other,Jacksonville Jaguars
 1318,Yannick Ngakoue,DE,06-02,246.0,23.0,3,other,Jacksonville Jaguars
-1319,Andrew Norwell,LG,06-06,325.0,,R,other,Jacksonville Jaguars
+1319,Andrew Norwell,LG,06-06,325.0,0.0,R,other,Jacksonville Jaguars
 1320,James O'Shaughnessy,TE,06-04,245.0,26.0,4,other,Jacksonville Jaguars
 1321,Scott Orndoff,TE,06-05,256.0,24.0,1,other,Jacksonville Jaguars
 1322,Jermey Parnell,OT,06-06,326.0,31.0,8,other,Jacksonville Jaguars
@@ -1419,7 +1419,7 @@ id,player_name,position,height,weight,age,experience,college,team
 1417,Terrance Smith,LB,06-02,235.0,25.0,3,other,Kansas City Chiefs
 1418,Tremon Smith,DB,6-0,190.0,21.0,R,other,Kansas City Chiefs
 1419,Daniel Sorensen,DB,06-02,208.0,28.0,5,other,Kansas City Chiefs
-1420,Bentley Spain,OL,06-06,285.0,,R,other,Kansas City Chiefs
+1420,Bentley Spain,OL,06-06,285.0,0.0,R,other,Kansas City Chiefs
 1421,Breeland Speaks,LB,06-03,285.0,22.0,R,other,Kansas City Chiefs
 1422,Arrion Springs,DB,6-0,205.0,22.0,R,other,Kansas City Chiefs
 1423,Jordan Sterns,DB,05-11,198.0,24.0,1,other,Kansas City Chiefs
@@ -1507,7 +1507,7 @@ id,player_name,position,height,weight,age,experience,college,team
 1505,Steven Richardson,DL,6-0,292.0,22.0,R,other,Los Angeles Chargers
 1506,Whitney Richardson,DE,06-04,251.0,25.0,1,other,Los Angeles Chargers
 1507,Philip Rivers,QB,06-05,228.0,36.0,15,other,Los Angeles Chargers
-1508,Austin Roberts,TE,06-02,230.0,,R,other,Los Angeles Chargers
+1508,Austin Roberts,TE,06-02,230.0,0.0,R,other,Los Angeles Chargers
 1509,Isaac Rochell,DE,06-04,280.0,23.0,1,other,Los Angeles Chargers
 1510,Michael Schofield III,G,06-06,301.0,27.0,5,other,Los Angeles Chargers
 1511,Artavis Scott,WR,05-11,195.0,23.0,1,other,Los Angeles Chargers
@@ -2076,7 +2076,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2074,Teddy Bridgewater,QB,06-02,215.0,25.0,5,other,New York Jets
 2075,Terrence Brooks,S,05-11,200.0,26.0,5,other,New York Jets
 2076,Juston Burris,CB,6-0,212.0,24.0,3,other,New York Jets
-2077,Trenton Cannon,RB,05-11,185.0,,R,other,New York Jets
+2077,Trenton Cannon,RB,05-11,185.0,0.0,R,other,New York Jets
 2078,James Carpenter,G,06-05,321.0,29.0,8,other,New York Jets
 2079,Morris Claiborne,CB,05-11,192.0,28.0,7,other,New York Jets
 2080,Jeremy Clark,CB,06-03,220.0,24.0,1,other,New York Jets
@@ -2088,15 +2088,15 @@ id,player_name,position,height,weight,age,experience,college,team
 2086,Dakota Dozier,G,06-04,313.0,27.0,5,other,New York Jets
 2087,Lachlan Edwards,P,06-04,209.0,26.0,3,other,New York Jets
 2088,Quincy Enunwa,WR,06-02,225.0,26.0,4,other,New York Jets
-2089,Folorunso Fatukasi,DL,06-04,318.0,,R,other,New York Jets
+2089,Folorunso Fatukasi,DL,06-04,318.0,0.0,R,other,New York Jets
 2090,Dimitri Flowers,FB,06-02,248.0,22.0,R,other,New York Jets
 2091,Antonio Garcia,T,06-07,302.0,24.0,1,other,New York Jets
-2092,Austin Golson,OL,06-05,315.0,,R,other,New York Jets
+2092,Austin Golson,OL,06-05,315.0,0.0,R,other,New York Jets
 2093,Obum Gwacham,LB,06-05,246.0,27.0,4,other,New York Jets
 2094,Chad Hansen,WR,6-0,202.0,23.0,2,other,New York Jets
 2095,Jonotthan Harrison,C,06-04,300.0,26.0,5,other,New York Jets
 2096,Thomas Hennessy,LS,06-02,246.0,24.0,2,other,New York Jets
-2097,Chris Herndon,TE,06-04,253.0,,R,other,New York Jets
+2097,Chris Herndon,TE,06-04,253.0,0.0,R,other,New York Jets
 2098,Neville Hewitt,LB,06-02,234.0,25.0,4,other,New York Jets
 2099,Bucky Hodges,TE,06-06,257.0,22.0,1,other,New York Jets
 2100,Ben Ijalana,T,06-04,322.0,28.0,8,other,New York Jets
@@ -2109,7 +2109,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2107,Darron Lee,LB,06-01,232.0,23.0,3,other,New York Jets
 2108,Jordan Leggett,TE,06-05,258.0,23.0,2,other,New York Jets
 2109,Spencer Long,C,06-05,318.0,27.0,5,other,New York Jets
-2110,Frankie Luvu,LB,06-03,236.0,,R,other,New York Jets
+2110,Frankie Luvu,LB,06-03,236.0,0.0,R,other,New York Jets
 2111,Josh Martin,LB,06-03,245.0,26.0,6,other,New York Jets
 2112,Lorenzo Mauldin,LB,06-04,259.0,25.0,4,other,New York Jets
 2113,Marcus Maye,S,6-0,207.0,25.0,2,other,New York Jets
@@ -2120,7 +2120,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2118,Doug Middleton,S,6-0,210.0,24.0,2,other,New York Jets
 2119,Rontez Miles,S,6-0,203.0,29.0,4,other,New York Jets
 2120,Kevin Minter,LB,6-0,246.0,27.0,6,other,New York Jets
-2121,Parry Nickerson,CB,05-10,182.0,,R,other,New York Jets
+2121,Parry Nickerson,CB,05-10,182.0,0.0,R,other,New York Jets
 2122,Charone Peake,WR,06-02,209.0,25.0,3,other,New York Jets
 2123,Mike Pennel,DL,06-04,332.0,27.0,5,other,New York Jets
 2124,Kevin Pierre-Louis,LB,6-0,230.0,26.0,5,other,New York Jets
@@ -2134,7 +2134,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2132,Kacy Rodgers II,S,06-02,220.0,26.0,1,other,New York Jets
 2133,Cairo Santos,K,05-08,160.0,26.0,5,other,New York Jets
 2134,Brandon Shell,T,06-05,324.0,26.0,3,other,New York Jets
-2135,Nathan Shepherd,DL,06-04,315.0,,R,other,New York Jets
+2135,Nathan Shepherd,DL,06-04,315.0,0.0,R,other,New York Jets
 2136,Dakoda Shepley,G,06-05,290.0,23.0,R,other,New York Jets
 2137,Deon Simon,DL,06-04,332.0,28.0,2,other,New York Jets
 2138,Terrell Sinkfield,CB,06-01,195.0,27.0,1,other,New York Jets
@@ -2153,7 +2153,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2151,J.J. Wilcox,S,6-0,212.0,27.0,5,other,New York Jets
 2152,Leonard Williams,DL,06-05,302.0,24.0,4,other,New York Jets
 2153,Avery Williamson,LB,06-01,246.0,26.0,5,other,New York Jets
-2154,Anthony Wint,LB,6-0,224.0,,R,other,New York Jets
+2154,Anthony Wint,LB,6-0,224.0,0.0,R,other,New York Jets
 2155,Brian Winters,G,06-04,320.0,27.0,6,other,New York Jets
 2156,Vadal Alexander,G/T,06-05,326.0,24.0,3,other,Oakland Raiders
 2157,Marcell Ateman,WR,06-04,220.0,23.0,R,other,Oakland Raiders
@@ -2189,7 +2189,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2187,Johnny Holton,WR,06-01,190.0,26.0,3,other,Oakland Raiders
 2188,Rodney Hudson,C,06-02,300.0,28.0,8,other,Oakland Raiders
 2189,Cameron Hunt,G,06-04,265.0,23.0,1,other,Oakland Raiders
-2190,Maurice Hurst,DT,06-02,290.0,,R,other,Oakland Raiders
+2190,Maurice Hurst,DT,06-02,290.0,0.0,R,other,Oakland Raiders
 2191,Bruce Irvin,LB,06-03,260.0,30.0,7,other,Oakland Raiders
 2192,Gabe Jackson,G,06-03,336.0,26.0,5,other,Oakland Raiders
 2193,Derrick Johnson,LB,06-03,242.0,35.0,14,other,Oakland Raiders
@@ -2331,7 +2331,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2329,Markus Wheaton,WR,05-11,185.0,27.0,6,Oregon State University,Philadelphia Eagles
 2330,Kyle Wilson,LB,6-0,231.0,22.0,R,Pennsylvania State University--University Park,Philadelphia Eagles
 2331,Marquess Wilson,WR,06-04,206.0,25.0,5,Washington State University,Philadelphia Eagles
-2332,Tim Wilson,WR,05-09,170.0,,R,East Carolina University,Philadelphia Eagles
+2332,Tim Wilson,WR,05-09,170.0,0.0,R,East Carolina University,Philadelphia Eagles
 2333,Stefen Wisniewski,C/G,06-03,305.0,29.0,8,Pennsylvania State University--University Park,Philadelphia Eagles
 2334,Adam Zaruba,TE,06-05,265.0,27.0,R,other,Philadelphia Eagles
 2335,Keion Adams,LB,06-02,245.0,23.0,2,Western Michigan University,Pittsburgh Steelers
@@ -2558,7 +2558,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2556,Dontae Johnson,CB,06-02,200.0,26.0,5,North Carolina State University--Raleigh,Seattle Seahawks
 2557,Marcus Johnson,WR,06-01,204.0,23.0,2,University of Texas--Austin,Seattle Seahawks
 2558,Tom Johnson,DT,06-03,285.0,33.0,8,University of Southern Mississippi,Seattle Seahawks
-2559,Jamarco Jones,T,06-04,293.0,,R,Ohio State University--Columbus,Seattle Seahawks
+2559,Jamarco Jones,T,06-04,293.0,0.0,R,Ohio State University--Columbus,Seattle Seahawks
 2560,Nazair Jones,DT,06-05,292.0,23.0,2,University of North Carolina--Chapel Hill,Seattle Seahawks
 2561,Dion Jordan,DE,06-06,284.0,28.0,4,University of Oregon,Seattle Seahawks
 2562,Akeem King,CB,06-01,212.0,25.0,3,University of California--San Diego,Seattle Seahawks
@@ -2571,7 +2571,7 @@ id,player_name,position,height,weight,age,experience,college,team
 2569,Bradley McDougald,FS,06-01,215.0,27.0,6,University of Kansas,Seattle Seahawks
 2570,Malik McDowell,DT,06-06,299.0,22.0,1,Michigan State University,Seattle Seahawks
 2571,Tanner McEvoy,WR,06-06,230.0,25.0,3,University of Wisconsin--Madison,Seattle Seahawks
-2572,Alex McGough,QB,06-03,214.0,,R,other,Seattle Seahawks
+2572,Alex McGough,QB,06-03,214.0,0.0,R,other,Seattle Seahawks
 2573,J.D. McKissic,RB,05-10,195.0,24.0,2,Pennsylvania State University--University Park,Seattle Seahawks
 2574,Barkevious Mingo,LB,06-05,235.0,27.0,6,other,Seattle Seahawks
 2575,David Moore,WR,6-0,215.0,23.0,2,University of Central Florida,Seattle Seahawks
