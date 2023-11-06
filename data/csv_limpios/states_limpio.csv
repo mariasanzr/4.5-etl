@@ -1,51 +1,51 @@
-,id,state,abbreviation,capital_city,square_km
-0,0,Alabama,AL,Montgomery,135756
-1,1,Alaska,AK,Juneau,1717854
-2,2,Arizona,AZ,Phoenix,295254
-3,3,Arkansas,AR,Little Rock,137732
-4,4,California,CA,Sacramento,423970
-5,5,Carolina,NC,Raleigh,139389
-6,6,Carolina,SC,Columbia,82932
-7,7,Colorado,CO,Denver,269601
-8,8,Connecticut,CT,Hartford,14357
-9,9,Dakota,ND,Bismarck,183112
-10,10,Dakota,SD,Pierre,199731
-11,11,Delaware,DE,Dover,6447
-12,12,Florida,FL,Tallahassee,170304
-13,13,Georgia,GA,Atlanta,153909
-14,14,Hawái,HI,Honolulu,28311
-15,15,Idaho,ID,Boise,216446
-16,16,Illinois,IL,Springfield,149998
-17,17,Indiana,IN,Indianápolis,94321
-18,18,Iowa,IA,Des Moines,145743
-19,19,Kansas,KS,Topeka,213096
-20,20,Kentucky,KY,Frankfort,104659
-21,21,Luisiana,LA,Baton Rouge,134264
-22,22,Maine,ME,Augusta,91646
-23,23,Maryland,MD,Annapolis,32133
-24,24,Massachusetts,MA,Boston,27336
-25,25,Míchigan,MI,Lansing,250494
-26,26,Minnesota,MN,Saint Paul,225171
-27,27,Misisipi,MS,Jackson,125434
-28,28,Misuri,MO,Jefferson City,180533
-29,29,Montana,MT,Helena,380838
-30,30,Nebraska,NE,Lincoln,200345
-31,31,Nevada,NV,Carson City,286351
-32,32,Nueva,NJ,Trenton,22588
-33,33,Nueva,NY,Albany,141299
-34,34,Nuevo,NH,Concord,24216
-35,35,Nuevo,NM,Santa Fe,314915
-36,36,Ohio,OH,Columbus,116096
-37,37,Oklahoma,OK,Oklahoma City,181035
-38,38,Oregón,OR,Salem,254805
-39,39,Pensilvania,PA,Harrisburg,119283
-40,40,Rhode,RI,Providence,4002
-41,41,Tennessee,TN,Nashville,109151
-42,42,Texas,TX,Austin,695621
-43,43,Utah,UT,Salt Lake City,219887
-44,44,Vermont,VT,Montpelier,24901
-45,45,Virginia,VA,Richmond,110785
-46,46,Virginia,WV,Charleston,62755
-47,47,Washington,WA,Olympia,184665
-48,48,Wisconsin,WI,Madison,169639
-49,49,Wyoming,WY,Cheyenne,253336
+id,state,abbreviation,capital_city,square_km
+0,Alabama,AL,Montgomery,135756
+1,Alaska,AK,Juneau,1717854
+2,Arizona,AZ,Phoenix,295254
+3,Arkansas,AR,Little Rock,137732
+4,California,CA,Sacramento,423970
+5,Carolina,NC,Raleigh,139389
+6,Carolina,SC,Columbia,82932
+7,Colorado,CO,Denver,269601
+8,Connecticut,CT,Hartford,14357
+9,Dakota,ND,Bismarck,183112
+10,Dakota,SD,Pierre,199731
+11,Delaware,DE,Dover,6447
+12,Florida,FL,Tallahassee,170304
+13,Georgia,GA,Atlanta,153909
+14,Hawái,HI,Honolulu,28311
+15,Idaho,ID,Boise,216446
+16,Illinois,IL,Springfield,149998
+17,Indiana,IN,Indianápolis,94321
+18,Iowa,IA,Des Moines,145743
+19,Kansas,KS,Topeka,213096
+20,Kentucky,KY,Frankfort,104659
+21,Luisiana,LA,Baton Rouge,134264
+22,Maine,ME,Augusta,91646
+23,Maryland,MD,Annapolis,32133
+24,Massachusetts,MA,Boston,27336
+25,Míchigan,MI,Lansing,250494
+26,Minnesota,MN,Saint Paul,225171
+27,Misisipi,MS,Jackson,125434
+28,Misuri,MO,Jefferson City,180533
+29,Montana,MT,Helena,380838
+30,Nebraska,NE,Lincoln,200345
+31,Nevada,NV,Carson City,286351
+32,Nueva,NJ,Trenton,22588
+33,Nueva,NY,Albany,141299
+34,Nuevo,NH,Concord,24216
+35,Nuevo,NM,Santa Fe,314915
+36,Ohio,OH,Columbus,116096
+37,Oklahoma,OK,Oklahoma City,181035
+38,Oregón,OR,Salem,254805
+39,Pensilvania,PA,Harrisburg,119283
+40,Rhode,RI,Providence,4002
+41,Tennessee,TN,Nashville,109151
+42,Texas,TX,Austin,695621
+43,Utah,UT,Salt Lake City,219887
+44,Vermont,VT,Montpelier,24901
+45,Virginia,VA,Richmond,110785
+46,Virginia,WV,Charleston,62755
+47,Washington,WA,Olympia,184665
+48,Wisconsin,WI,Madison,169639
+49,Wyoming,WY,Cheyenne,253336
