@@ -4,7 +4,7 @@
 
 Para este proyecto, he hecho una extracción de datos relacionados con la NFL (National Football League). 
 
-EXTRACCIÓN 🏗️
+## EXTRACCIÓN 🏗️
 
 - 'States': con datos como los nombres de los estados, su capital y su superficie en kilómetros cuadrados. 
 
@@ -12,7 +12,7 @@ EXTRACCIÓN 🏗️
 
 - 'Teams_players': esta tabla cuenta con los datos de los jugadores por equipo en el año 2018, así como su peso, altura, posición, entre otras cosas...
 
-TRANSFORMACIÓN ↺
+## TRANSFORMACIÓN ↺
 
 - En esta sección del proyecto, he comenzado  por utilizar el método 'scraping' y descarga de CSVs para obtener los datos.
 
@@ -20,7 +20,7 @@ TRANSFORMACIÓN ↺
 
 - He Creado columnas en cada tabla cuyos datos se identificaran con los IDs de aquellas con las que estuvieran relacionadas.
 
-CARGA 🪨
+## CARGA 🪨
 
 - He creado  una base de datos en MySQL Workbench y cargué las tablas.
 
