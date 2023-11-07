@@ -48,3 +48,9 @@ Para este proyecto, he hecho una extracción de datos relacionados con la NFL (N
 - Aquí se muestra el top 5 de estados con más universidades (según las seleccionadas):
 
 ![query](/pictures/query5.png)
+
+## FYI
+
+Esta es la categorización de los equipos: 
+
+![teams](/pictures/picture.jpg)
